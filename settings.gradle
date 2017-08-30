@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':cert4android'
 include ':cert4android'
