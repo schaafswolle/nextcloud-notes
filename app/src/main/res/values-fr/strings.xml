@@ -7,9 +7,9 @@
     <string name="action_settings">Paramètres</string>
     <string name="action_create_save">Sauvegarder</string>
     <string name="action_create_cancel">Annuler</string>
-    <string name="action_edit_editing">Édition en cours</string>
+    <string name="action_edit_editing">Modifier</string>
     <string name="action_edit_save">Sauvegarder</string>
-    <string name="action_edit_saving">Sauvegarde en cours&#8230;</string>
+    <string name="action_edit_saving">Enregistrement de &#8230;</string>
     <string name="action_edit_saved">Sauvegardé</string>
     <string name="action_edit_cancel">Annuler</string>
     <string name="action_about">À propos</string>
@@ -21,11 +21,14 @@
     <string name="menu_copy">Copier</string>
     <string name="menu_edit">Éditer</string>
     <string name="menu_cancel">Annuler</string>
+    <string name="menu_change_category">Catégorie</string>
     <string name="menu_favorite">Favoris</string>
     <string name="menu_preview">Aperçu</string>
     <string name="menu_share">Partager</string>
     <string name="menu_about">À propos</string>
 
+    <string name="change_category_title">Choisir une catégorie</string>
+    <string name="change_category_message">Entrez un nom de catégorie s\'il vous plait</string>
     <string name="copy">Copier</string>
 
     <string name="listview_updated_today">Aujourd\'hui</string>
@@ -100,6 +103,7 @@
 
     <string name="widget_all_notes_title">Toutes les notes</string>
     <string name="widget_single_note_title">Une seule note</string>
+    <string name="widget_create_note">Créer une note</string>
 
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Créer une nouvelle note</string>

@@ -21,11 +21,14 @@
     <string name="menu_copy">Kopie</string>
     <string name="menu_edit">Rediger</string>
     <string name="menu_cancel">Avbryt</string>
+    <string name="menu_change_category">Kategori</string>
     <string name="menu_favorite">Favoritt</string>
     <string name="menu_preview">Forhåndsvis</string>
     <string name="menu_share">Del</string>
     <string name="menu_about">Om</string>
 
+    <string name="change_category_title">Velg kateogri</string>
+    <string name="change_category_message">Skriv inn et kategorinavn</string>
     <string name="copy">Kopier</string>
 
     <string name="listview_updated_today">Idag</string>
@@ -100,9 +103,10 @@
 
     <string name="widget_all_notes_title">Alle notater</string>
     <string name="widget_single_note_title">Enkeltnotat</string>
+    <string name="widget_create_note">Opprett notat</string>
 
     <!-- Shortcuts -->
-    <string name="shortcut_create_long">Opprett en ny notis</string>
+    <string name="shortcut_create_long">Opprett et nytt notat</string>
 
     <!-- Plurals -->
     <plurals name="ab_selected">

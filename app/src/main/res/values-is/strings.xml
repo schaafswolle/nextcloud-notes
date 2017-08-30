@@ -21,11 +21,14 @@
     <string name="menu_copy">Afrita</string>
     <string name="menu_edit">Breyta</string>
     <string name="menu_cancel">Hætta við</string>
+    <string name="menu_change_category">Flokkur</string>
     <string name="menu_favorite">Eftirlæti</string>
     <string name="menu_preview">Forskoðun</string>
     <string name="menu_share">Deila</string>
     <string name="menu_about">Um hugbúnaðinn</string>
 
+    <string name="change_category_title">Veldu flokk</string>
+    <string name="change_category_message">Settu inn heiti á flokki</string>
     <string name="copy">Afrita</string>
 
     <string name="listview_updated_today">Í dag</string>
@@ -100,6 +103,7 @@
 
     <string name="widget_all_notes_title">Allir minnispunktar</string>
     <string name="widget_single_note_title">Stakur minnispunktur</string>
+    <string name="widget_create_note">Búa til minnispunkt</string>
 
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Búa til nýjan minnispunkt</string>

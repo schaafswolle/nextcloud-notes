@@ -21,11 +21,14 @@
     <string name="menu_copy">复制</string>
     <string name="menu_edit">编辑</string>
     <string name="menu_cancel">取消</string>
+    <string name="menu_change_category">类别</string>
     <string name="menu_favorite">收藏</string>
     <string name="menu_preview">预览</string>
     <string name="menu_share">分享</string>
     <string name="menu_about">关于</string>
 
+    <string name="change_category_title">选择类别</string>
+    <string name="change_category_message">请输入一个类别名称</string>
     <string name="copy">复制</string>
 
     <string name="listview_updated_today">今天</string>
@@ -100,7 +103,6 @@
 
     <string name="widget_all_notes_title">所有便笺</string>
     <string name="widget_single_note_title">单个便笺</string>
-
     <!-- Shortcuts -->
     <string name="shortcut_create_long">创建新便笺</string>
 

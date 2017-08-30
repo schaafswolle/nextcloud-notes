@@ -21,11 +21,14 @@
     <string name="menu_copy">Copiar</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_cancel">Cancelar</string>
+    <string name="menu_change_category">Categoría</string>
     <string name="menu_favorite">Favorito</string>
     <string name="menu_preview">Vista previa</string>
     <string name="menu_share">Compartir</string>
     <string name="menu_about">Acerca de</string>
 
+    <string name="change_category_title">Seleccionar categoría</string>
+    <string name="change_category_message">Por favor ingresa el nombre de la categoría</string>
     <string name="copy">Copiar</string>
 
     <string name="listview_updated_today">Hoy</string>
@@ -100,6 +103,7 @@
 
     <string name="widget_all_notes_title">Todas la notas</string>
     <string name="widget_single_note_title">Única nota</string>
+    <string name="widget_create_note">Crear Nota</string>
 
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Crear una nota nueva</string>

@@ -21,11 +21,14 @@
     <string name="menu_copy">Kopírovat</string>
     <string name="menu_edit">Upravit</string>
     <string name="menu_cancel">Zrušit</string>
+    <string name="menu_change_category">Kategorie</string>
     <string name="menu_favorite">Oblíbený</string>
     <string name="menu_preview">Náhled</string>
     <string name="menu_share">Sdílet</string>
     <string name="menu_about">O aplikaci</string>
 
+    <string name="change_category_title">Vyberte kategorii</string>
+    <string name="change_category_message">Zadejte prosím název kategorie</string>
     <string name="copy">Kopírovat</string>
 
     <string name="listview_updated_today">Dnes</string>
@@ -100,6 +103,7 @@
 
     <string name="widget_all_notes_title">Všechny poznámky</string>
     <string name="widget_single_note_title">Jedna poznámka</string>
+    <string name="widget_create_note">Vytvořit poznámku</string>
 
     <!-- Shortcuts -->
     <string name="shortcut_create_long">Vytvořit novou poznámku</string>
